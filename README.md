@@ -86,7 +86,12 @@ A time-to-complication model was created using synthetic time-to-event data. Kap
 
 Summary Output
 
-A summary of descriptive statistics, regression results, and cost-effectiveness outcomes was produced using SAS output tables and procedures.
+A summary of descriptive statistics, regression results, and cost-effectiveness outcome
+s was produced using SAS output tables and procedures.
+<img width="991" height="792" alt="Screenshot 2025-11-18 at 06 41 02" src="https://github.com/user-attachments/assets/138a8fbf-e8d9-4e3e-a863-af1bc94ceaea" />
+
+<img width="681" height="544" alt="Screenshot 2025-11-18 at 06 41 33" src="https://github.com/user-attachments/assets/e32348c1-6340-4a80-a81a-3992bda03474" />
+
 
 Key Findings
 
